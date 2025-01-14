@@ -1,0 +1,5 @@
+
+chessnut==0.1.1  # Lightweight Python library for chess logic
+numpy==1.23.5    # For numerical computations (if needed)
+scipy==1.10.1    # For advanced algorithms (if applicable)
+jupyter==1.0.0   # For running the environment.ipynb notebook
